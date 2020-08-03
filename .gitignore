@@ -1,0 +1,6 @@
+inputs/*
+outputs/*
+hapmap-2/*
+imputationserver/*
+.snakemake
+config.yaml
